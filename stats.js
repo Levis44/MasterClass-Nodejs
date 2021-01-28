@@ -19,6 +19,6 @@ setInterval(() => {
     console.table(stats);
     
 
-}, 2000);
+}, 1000);
 
 
